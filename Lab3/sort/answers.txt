@@ -1,0 +1,13 @@
+sort1 uses:Bubble
+
+How do you know?: This took the most amount of real time to run and selection
+takes the most time to sort.
+
+sort2 uses:Merge
+
+How do you know?:This took the least amount of time and merge is the fastest sort.
+
+sort3 uses:Selection
+
+How do you know?: This took somewhere in-between sort 2 and 3.  This has to be bubble
+beacuse it takes somewhere in-between merge and selection.
